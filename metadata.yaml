@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/43697
     wikipedia: http://en.wikipedia.org/wiki/James_Bateman
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46281#A-Monograph-of-Odontoglossum
 gutenberg_issued: '2014-07-14'
 gutenberg_type: Text
 identifiers:
